@@ -22,8 +22,4 @@ https://metamask.io/
 "CREATE" button. Paste in your mnemonic and make up password. Click on menu in left corner choose "custom RPC".
 In the box titled "New RPC URL" enter http://127.0.0.1:7545 and click Save.
 
-7 Run "npm run dev"
-
-8 
-
- 
+7 Run "npm run dev" 
