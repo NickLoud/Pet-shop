@@ -9,11 +9,11 @@ To set up all dependencies you should run:
 
 If you have some problems running previous command in Windows then try
 ##### truffle.cmd compile
-3 Install gananche
+3 Install ganache
 
 https://truffleframework.com/ganache
 
-4 Run gananche and copy mnemonic (top-left corner)
+4 Run ganache and copy mnemonic (top-left corner)
 
 5 Install metamask, accept all terms. 
 https://metamask.io/
